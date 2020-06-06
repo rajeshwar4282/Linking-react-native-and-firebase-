@@ -9,11 +9,8 @@ GETTING STARTED:
         expo init projectname
  
   result:
-  ![](Screenshot%20from%202020-06-06%2001-28-17.png)
-  
-
-->You can see diiferent folders and files in the created folder,they are
-   
+   ->You can see diiferent folders and files in the created folder,they are
+   ![](Screenshot%20from%202020-06-06%2001-28-17.png)
     2.RUNNING OUR PROJECT:
 
    ->Enter the created app directory and try npm start
@@ -21,7 +18,7 @@ GETTING STARTED:
              npm start
    ->Download expo app in your mobile from app store and scan the QR CODE appeared in cmd.
 
-
+     ![](Screenshot%20from%202020-06-06%2001-28-48.png)
 
 3.ADDING FIREBASE TO OUR PROJECT
       
@@ -33,16 +30,18 @@ GETTING STARTED:
    
  ->create a firebase project and add a web app in that project , copy the configuration file from the               
      console.
-->Add config folder in root directory of the project and create a file name called Firebase.js
+ ->Add config folder in root directory of the project and create a file name called Firebase.js
    
    config/Firebase.js
+   
+   ![](Screenshot%20from%202020-06-06%2001-31-04.png)
 
 4.LETS START EDITING OUR APP FOR EMAIL AUTHENTICATION
 
    ->In the firebase console in authentication section ,in sign-in methods add email .
      
 
-
+![](Screenshot%20from%202020-06-06%2001-30-48.png)
 
 
 
@@ -83,7 +82,12 @@ GETTING STARTED:
 
 lets see the app and details that entered by our user are updated in firebase or not
 
-
+![](Screenshot%20from%202020-06-06%2001-28-17.png)
+![](Screenshot%20from%202020-06-06%2001-28-17.png)
+![](Screenshot%20from%202020-06-06%2001-28-17.png)
+![](Screenshot%20from%202020-06-06%2001-28-17.png)
+![](Screenshot%20from%202020-06-06%2001-30-44.png)
+![](Screenshot%20from%202020-06-06%2001-30-38.png)
 
 
 
