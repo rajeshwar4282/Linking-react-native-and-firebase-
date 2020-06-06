@@ -81,11 +81,15 @@ GETTING STARTED:
   amazing email-authentication app
 
 lets see the app and details that entered by our user are updated in firebase or not
-
-![](Screenshot%20from%202020-06-06%2001-28-17.png)
-![](Screenshot%20from%202020-06-06%2001-28-17.png)
-![](Screenshot%20from%202020-06-06%2001-28-17.png)
-![](Screenshot%20from%202020-06-06%2001-28-17.png)
+  /screens/Signup.js
+<img src="Screenshot_2020-06-06-00-26-04-21_f73b71075b1de7323614b647fe394240.png" width="230" height="400">
+  /screens/Details.js
+<img src="Screenshot_2020-06-06-00-25-18-72_f73b71075b1de7323614b647fe394240.png" width="230" height="400">
+  /screens/Login.js
+<img src="Screenshot_2020-06-06-00-26-22-71_f73b71075b1de7323614b647fe394240.png" width="230" height="400">
+  /screens/Profile.js
+<img src="Screenshot_2020-06-06-00-26-29-08_f73b71075b1de7323614b647fe394240.png" width="230" height="400">
+DATA SAVED TO FIREBASE:
 ![](Screenshot%20from%202020-06-06%2001-30-44.png)
 ![](Screenshot%20from%202020-06-06%2001-30-38.png)
 
