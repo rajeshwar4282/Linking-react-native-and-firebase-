@@ -16,9 +16,9 @@ GETTING STARTED:
    ->Enter the created app directory and try npm start
               cd projectname
              npm start
-   ->Download expo app in your mobile from app store and scan the QR CODE appeared in cmd.
+   ->Download expo app in your mobile from app store and scan the QR CODE appeared in cmd
 
-     ![](Screenshot%20from%202020-06-06%2001-28-48.png)
+   ![](Screenshot%20from%202020-06-06%2001-28-48.png)
 
 3.ADDING FIREBASE TO OUR PROJECT
       
