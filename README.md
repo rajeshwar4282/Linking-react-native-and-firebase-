@@ -9,7 +9,7 @@ GETTING STARTED:
         expo init projectname
  
   result:
-   ![alt text](/Screenshot from 2020-06-06 01-28-17.png)
+  ![](Screenshot%20from%202020-06-06%2001-28-17.png)
   
 
 ->You can see diiferent folders and files in the created folder,they are
